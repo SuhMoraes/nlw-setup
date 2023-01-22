@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O NLW Setup é um app para mapear os hábitos realizados.
+O Habits é um app para mapear os hábitos realizados.
 
 - [Acesse o projeto finalizado, online](https://suhmoraes-nlwsetup.netlify.app/)
 
