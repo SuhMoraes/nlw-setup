@@ -1,0 +1,10 @@
+{"main": "script.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Suhailah Moraes",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  }  
+}
